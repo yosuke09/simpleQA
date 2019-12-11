@@ -1,2 +1,2 @@
 # simpleQA
-It will be opened by end of February 2020.
+It will be opened by the end of March 2020.
