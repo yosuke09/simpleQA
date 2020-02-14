@@ -1,2 +1,3 @@
 # simpleQA
-It will be opened by the end of March 2020.
+dwave_simple.py is a simple program to call D-Wave.
+
